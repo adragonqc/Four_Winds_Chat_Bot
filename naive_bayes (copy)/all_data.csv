@@ -1,0 +1,33 @@
+question,answer
+what time is it?,time
+What time is ham open?,time+ham+hours+bool+open
+what time will hamilton center open?,time+ham+hours+open
+When does ham open?,time+ham+hours+open
+What are the ham hours?,ham+hours
+Will hamilton center be open soon?,time+ham+hours+bool+open
+Can I enter ham now?,time+ham+hours+bool+open
+When does ham close?,time+ham+hours+bool+close
+Is hamilton center open?,time+ham+hours+bool+open
+Is ham open?,time+ham+hours+bool+open
+is hami open,time+ham+hours+bool+open
+is ham not open rn,time+ham+hours+bool+open
+why isn't ham open,time+ham+hours+bool+close
+doesn't ham open soon?,time+ham+hours+bool+open
+doesnt ham open soon?,time+ham+hours+bool+open
+does ham not open soon?,time+ham+hours+bool+open
+Is the library open?,time+library+hours+bool+open
+Is the library closed?,time+library+hours+bool+close
+can i enter the wrc right now?,time+wrc+hours+bool+open
+What are the wrc hours?,time+wrc+hours
+where is the library located?,library+location
+can I enter the library at this moment?,time+library+hours+bool+open
+where is ham located?,ham+location
+where can i find ham?,ham+location
+is the hamilton center the same location as the cafe?, ham+location+bool
+what does wrc stand for?,wrc+acronym_check
+what does ham mean?,ham+acronym_check
+what does ham stand for?,ham+acronym_check
+what does ssc stand for?,ssc+acronym_check
+
+
+

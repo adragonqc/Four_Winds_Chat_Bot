@@ -1,0 +1,124 @@
+question,label
+What time is ham open?,ham
+what time will hamilton center open?,ham
+When does ham open?,ham
+What are the ceo hours?,ceo
+Will hamilton center be open soon?,ham
+When does ham close?,ham
+why isn't ham open,ham
+doesnt wrc open soon?,wrc
+does ham not open soon?,ham
+What are the wrc hours?,wrc
+where is the library located?,library
+where is ham located?,location
+where can i find ham?,location
+is the hamilton center the same location as the cafe?,ham
+what does wrc stand for?,wrc
+what does ham mean?,ham
+what does ssc stand for?,ssc
+where is the ssc?,ssc
+where is the student success center?,ssc
+how do i make an appointment with the ssc?,ssc
+what is the ra phone number?,ra
+what is the campus police number?,campus_police
+what is the metz menu?,ham
+when does the library close?,library
+Where can I find the academic calendar?,aca_cal
+What are this weeks events?,aca_cal
+what is happening this week?,aca_cal
+Where are 5 most common places people want to go to?,location
+Cafeteria menu url access.,ham
+What does sca mean?,sca
+What is a sca?,sca
+How do I register for classes?,registration
+where can i register for my classes online?,registration
+how do i get to the registration page?,registration
+Where is X professor located,professor
+What are X professors office hours?,professor
+How do I request maintenance?,maintenance
+WHat is the name of this school,ncf
+What is your name?,four_winds_bot
+how do i get the laundry machine fixed?,maintenance
+how to get maintence done?,maintenance
+what are you called?,four_winds_bot
+what is the number for the library?,library
+where is the campus police station,location
+what is the nook,location
+what is the banyan?,location
+how do i contact the ra?,ra
+where is the wrc?,wrc
+when is the wrc open?,wrc
+can i enter the library now?,library
+what does jane bancroft mean?,library
+where is dr. roy located?,professor_roy
+where is dr. hamid located?,professor_hamid
+where is dr. page located?,professor_page
+Where can i find X professor?,professor
+How do i submit a maintenence form?,maintenance
+where is the campus police?,campus_police
+hello,greeting
+howdy,greeting
+how are you?,greeting
+help,help
+settings,help
+what is dr. hamid's office hours?,professor_hamid
+when are dr. roy's office hours?,professor_roy
+can you tell me dr. page's office hours?,proffessor_page
+Thank you,greeting
+Where is ACE located?,location
+Where is College Hall at?,location
+where can i find this new college?,location
+who is dr. roy?,professor_roy
+thanks!,greeting
+how do i access the library website?,library
+can you tell me how to find the hamilton center?,location
+can you tell me where the library is?,location
+can you direct me to ace lounge?,location
+where is ace lounge?,location
+Where is the Library Located?,location
+Where is Hamilton Center Located?,location
+Where is ham located,location
+Where is College Hall Located?,location
+Where is ACE located?,location
+Where is Gold locted?,location
+where is goldstien hall located?,location
+where is dort and gold located?,location
+where is dort located?,location
+Where are the letter dorms located?,location
+where is X hall located?,location
+where is V dorm located?,location
+where is W located?,location
+where is Z located?,location
+Where is palm court located?,location
+where is palm court?,location
+where is the center of the universe?,location
+Where is Pei 1,location
+where is pei?,location
+where is pei 2,location
+where is pei 3?,location
+where are pei?,location
+where is hambleton?,location
+where is the banyon tree?,location
+where is the mighty banyon?,location
+where is the tennis courts?,location
+where is the gym located?,location
+where is there the pool?,location
+where is Heiser?,location
+Where is the wrc?,location
+Where is the library?,location
+where is ham?,location
+where is ace?,location
+what events are this week?,aca_cal
+how are you?,four_winds_bot
+who are you?,four_winds_bot
+how do i contact the campus police?,campus_police
+how do i amke an appointment with my career counselor?,ceo
+how do i make a meeting with the ceo?,ceo
+tell me about the career center?,ceo
+tell me about maintenece?,maintenance
+tell me about the wrc?,wrc
+tell me about dr. roy?,professor_roy
+tell me about doctor hamid,professor_hamid
+tell me about doctor page?,professor_page
+
+

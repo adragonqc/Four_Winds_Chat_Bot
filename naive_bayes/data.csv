@@ -1,0 +1,18 @@
+question,answer
+what time is it?,time
+What time is ham open?,time+ham_hours+bool+open
+what time will hamilton center open?,time+ham_hours+open
+When does ham open?,time+ham_hours+open
+What are the ham hours?,ham_hours
+Will hamilton center be open soon?,time+ham_hours+bool+open
+Can I enter ham now?,time+ham_hours+bool+open
+When does ham close?,time+ham_hours+bool+close
+Is hamilton center open?,time+ham_hours+bool+open
+Is ham open?,time+ham_hours+bool+open
+is hami open,time+ham_hours+bool+open
+is ham not open rn,time+ham_hours+bool+open
+why isn't ham open,time+ham_hours+bool+close
+doesn't ham open soon?,time+ham_hours+bool+open
+doesnt ham open soon?,time+ham_hours+bool+open
+does ham not open soon?,time+ham_hours+bool+open
+
