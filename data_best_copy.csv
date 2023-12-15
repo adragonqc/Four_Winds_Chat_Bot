@@ -56,20 +56,20 @@ where is dr. page located?,professor_page
 Where can i find X professor?,professor
 How do i submit a maintenence form?,maintenance
 where is the campus police?,campus_police
-hello,greeting
-howdy,greeting
-how are you?,greeting
+hello,four_winds_bot
+howdy,four_winds_bot
+how are you?,four_winds_bot
 help,help
 settings,help
 what is dr. hamid's office hours?,professor_hamid
 when are dr. roy's office hours?,professor_roy
 can you tell me dr. page's office hours?,proffessor_page
-Thank you,greeting
+Thank you,four_winds_bot
 Where is ACE located?,location
 Where is College Hall at?,location
 where can i find this new college?,location
 who is dr. roy?,professor_roy
-thanks!,greeting
+thanks!,four_winds_bot
 how do i access the library website?,library
 can you tell me how to find the hamilton center?,location
 can you tell me where the library is?,location
@@ -120,5 +120,16 @@ tell me about the wrc?,wrc
 tell me about dr. roy?,professor_roy
 tell me about doctor hamid,professor_hamid
 tell me about doctor page?,professor_page
+tell me about ham?,ham
+ham?,ham
+why?,four_winds_bot
+where is v dorm?,location
+where is x dorm?,location
+where is the jane banecroft library?,library
+Hello! where is ham?,ham
+Hello! where is the library?,location
+hello! can you tell me about yourself?,four_winds_bot
+hello! what's happening this week?,aca_cal
+Hello! what is the ra phone number?,ra
 
 

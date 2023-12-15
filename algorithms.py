@@ -45,7 +45,7 @@ def naive_bayes(question, data):
     # P=model.transform([Cleaning(question)])
     predict2=clf2.predict(P.toarray())
     print(predict2)
-    return predict2
+    return (predict2[0])
 
 
 def decision_tree(question, data):
@@ -85,7 +85,7 @@ def decision_tree(question, data):
 
 
 data=pd.read_csv(sys.argv[2],encoding = "ISO-8859-1")
-returny = decision_tree(sys.argv[1], data)
+returny = naive_bayes(sys.argv[1], data)
 print(returny)
 with open('save.txt', 'w', newline='') as csvfile:
     csvfile.write(returny)

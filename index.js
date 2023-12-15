@@ -184,7 +184,7 @@ client.on('messageCreate', (message) => {
 			if(results === "greeting"){
 				message.channel.send(howYaDoing());
 			}
-			if(results === "four_winds_bot"){
+			if((results === "four_winds_bot") || (resullts === "help")){
 				message.channel.send("Hello, I am a robot, although I am not able to feel the same way you do, I am always happy to help you!")
 			}
 			if(results === "registration"){
