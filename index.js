@@ -188,7 +188,7 @@ client.on('messageCreate', (message) => {
 				message.channel.send("Hello, I am a robot, although I am not able to feel the same way you do, I am always happy to help you!")
 			}
 			if(results === "registration"){
-				channel.message.send("To access registration: first email your advisor for a pin, then enter the pin on Banner 9 app on myNCF, then finally select the classes you want, and select add.")
+				message.channel.send("To access registration: first email your advisor for a pin, then enter the pin on Banner 9 app on myNCF, then finally select the classes you want, and select add.")
 			}
 
 			if(results === "location"){
